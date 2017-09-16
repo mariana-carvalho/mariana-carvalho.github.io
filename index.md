@@ -7,3 +7,5 @@ layout: home
 
 
 Meu nome eh Mari.
+
+![flor](/files/IMG_7596.JPG)
