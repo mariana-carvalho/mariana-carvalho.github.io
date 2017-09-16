@@ -8,4 +8,4 @@ layout: home
 
 Meu nome eh Mari.
 
-![flor](/files/IMG_7596.JPG)
+![flor](/files/IMG_7596.JPG) | ![flor2](/files/IMG_7596.JPG)
