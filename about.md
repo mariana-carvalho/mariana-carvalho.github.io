@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Ph.D. student in Political Science at University of California, San Diego.
 
-You can find my CV here:
-[CV](/files/CV - Mariana Carvalho.pdf)
+I am mostly interested in... My current projects include...
+
+I am also interested ... 
+
+Prior to entering UCSD, I received a B.A. in Economics and a M.A. in Public Administration from Fundacao Getulio Vargas, Rio de Janeiro, Brazil.
+
+You can find my CV [here](/files/CV - Mariana Carvalho.pdf)

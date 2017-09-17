@@ -4,4 +4,4 @@ title: Research
 permalink: /research/
 ---
 
-- Oi
+- The Effects of Female Mayors on Local Policy and Politcs: Evidence from Close Elections in Brazil
