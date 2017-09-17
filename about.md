@@ -10,7 +10,7 @@ I am mostly interested in... My current projects include...
 
 I am also interested ...
 
-Prior to entering UCSD, I received a B.A. in Economics and a M.A. in Public Administration from Funda&#x00E7ao Getulio Vargas, Rio de Janeiro, Brazil.
+Prior to entering UCSD, I received a B.A. in Economics and a M.A. in Public Administration from Fundação Getulio Vargas, Rio de Janeiro, Brazil.
 
 You can find my **CV** [here](/files/CV - Mariana Carvalho.pdf)
 
