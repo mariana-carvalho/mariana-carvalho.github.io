@@ -7,4 +7,4 @@ permalink: /about/
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find my CV here:
-[CV][https://www.dropbox.com/s/9wshodt364pdpor/CV%20-%20Mariana%20Carvalho.pdf?dl=0]
+[CV](/files/CV - Mariana Carvalho.pdf)
