@@ -6,4 +6,4 @@ permalink: /research/
 
 ### **Work in Progress**
 
-**The Effects of Female Mayors on Local Policy and Politcs: Evidence from Close Elections in Brazil**
+**The Effects of Female Mayors on Local Policy and Politics: Evidence from Close Elections in Brazil**

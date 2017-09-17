@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Welcome! I am a Ph.D. student in Political Science at University of California, San Diego. My research focuses on comparative political economy, urban violence and conflict, and development, with a regional focus in Latin America.
+Welcome! I am a Ph.D. student in Political Science at University of California, San Diego. My research focuses on comparative political economy of development, urban violence and conflict, with a regional focus in Latin America.
 
 
-![flor](/files/IMG_7596.JPG) | ![flor2](/files/IMG_7596.JPG)
+![foto](/files/foto1.jpg) | ![foto2](/files/foto2.jpg) | ![foto3](/files/foto3.jpg)
