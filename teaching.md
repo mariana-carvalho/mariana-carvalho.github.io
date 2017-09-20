@@ -8,8 +8,7 @@ permalink: /teaching/
 Instructor:  Strom, Kaare
 
   [Week 1]() \\
-  [Week 2]() \\
-  [Week 3]()
+  [Week 2]() 
 
 * **INTL 102: World Poverty** (Fall 2016) \\
-Instructor: Stephen Haggard
+Instructor: Haggard, Stephen
