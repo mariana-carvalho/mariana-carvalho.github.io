@@ -11,8 +11,9 @@ Instructor:  Strom, Kaare
   [Week 2](/files/POLI11-Week2.pdf) \\
   [Week 3](/files/POLI11-Week3.pdf) \\
   [Week 4](/files/POLI11-Week4.pdf) \\
-  [Week 5](/files/POLI11-Week5.pdf)
-  
+  [Week 5](/files/POLI11-Week5.pdf) \\
+  [Week 6](/files/POLI11-Week6.pdf)   
+
 
 
 * **INTL 102: World Poverty** (Fall 2016) \\
