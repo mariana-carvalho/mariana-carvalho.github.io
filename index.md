@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Welcome! I am a Ph.D. student in Political Science at University of California, San Diego. I am interested in political economy of development, gender, and urban violence, with a regional focus in Latin America.
+Welcome! I am a Ph.D. student in Political Science at University of California, San Diego. I am interested in political economy of development, political violence, corruption, and crime.
 
 
 ![foto](/files/foto1.jpg)  | ![foto2](/files/foto2.jpg)
