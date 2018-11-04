@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-* **POLI 11D** (Fall 2017) \\
+* **POLI 11D: Introduction to Comparative Politics** (Fall 2017) \\
 Instructor:  Strom, Kaare
 
   [Week 1](/files/POLI11-Week1.pdf) \\
