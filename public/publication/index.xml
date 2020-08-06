@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Mariana Carvalho</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Research</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Political Economy of Assassinations</title>
+      <link>/publication/pol_economy_assassinations/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pol_economy_assassinations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Electoral Cycle of Violence</title>
+      <link>/publication/paper_electoral_cycles/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/paper_electoral_cycles/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Effects of Female Mayors on Local Policy and Politics</title>
+      <link>/publication/women_in_office/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/women_in_office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoritarian Legacies in Brazil</title>
+      <link>/publication/legacies/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/legacies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying and Deterring the Theft and Diversion of Medicinal Drugs in Malawi</title>
+      <link>/publication/malawi/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/malawi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

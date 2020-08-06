@@ -1,0 +1,59 @@
+---
+authors:
+- admin
+bio: 
+
+<!-- education:
+  courses:
+  - course: PhD in Political Science
+    institution: University of California, San Diego
+    year: 2020
+  - course: MA in Political Science
+    institution: University of California, San Diego
+    year: 2017
+  - course: MSc in Public Administration
+    institution: Fundação Getulio Vargas
+    year: 2015
+  - course: BA in Economics
+    institution: Fundação Getulio Vargas
+    year: 2012 --> 
+    
+email: "macarval@ucsd.edu"
+
+interests:
+- Political Economy 
+- Conflict and Violence
+- Causal Inference
+
+name: Mariana Carvalho
+organizations:
+- name: University of California, San Diego
+  url: ""
+role: PhD Candidate in Political Science
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/maricarvalb
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mariana-carvalho
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+superuser: true
+user_groups:
+- Researchers
+- Visitors
+# My research focuses on political and criminal violence, illicit markets, public security, and non-state governance in Latin America
+
+---
+
+I am a Ph.D. candidate in Political Science at University of California, San Diego. My research lies at the intersection of political economy of development and political and criminal violence. My dissertation focuses on the behavior of criminal politicians and causes and consequences of political violence. 
+
+In the 2020-2021 academic year, I will be a Dissertation Fellow with the UC Institute on Global Conflict and Cooperation. My dissertation research and field work has been supported by the Center for Latin American Studies at UCSD (CILAS), the UCSD Sanford Lakoff Research Fellowship, the UCSD International Institute. 
+
+Prior to entering UCSD, I received a B.A. in Economics and a M.A. in Public Administration from Fundação Getulio Vargas, Rio de Janeiro, Brazil. I worked as a consultant for UN-Habitat, monitoring and evaluating several annual policy goals of the City Hall of Rio de Janeiro.
