@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- Demo
+- 
 date: "2016-04-20T00:00:00Z"
 draft: false
 featured: false
@@ -20,7 +20,7 @@ tags:
 title: 'Applying to Political Science PhD Programs'
 ---
 
-Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+<!--  Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
 
 ## Which documents do I need? 
 

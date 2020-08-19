@@ -17,20 +17,27 @@
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;which-documents-do-i-need&#34;&gt;Which documents do I need?&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;other-advices&#34;&gt;Other advices&lt;/h2&gt;
-&lt;p&gt;While I try to provide some advice, people way more experienced have done that before:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://foreignpolicy.com/2012/03/18/so-you-want-to-get-into-a-political-science-ph-d-program-episode-i/&#34;&gt;Drezner’s article about political science PhD programs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Several source for Economics that can be useful for Political Scientists:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view&#34;&gt;Christian’s memo about the application process (recent, but overwhelming)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gslab-econ/ra-manual/wiki/PhD-Application&#34;&gt;Gentzkow and Shapiro’s RA manual&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chrisblattman.com/about/contact/gradschool/&#34;&gt;Blattman’s FAQ on PhD Applications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gregmankiw.blogspot.com/2010/03/choosing-graduate-program.html&#34;&gt;Mankiw’s advice on choosing a graduate program (very Econ)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This is a work in progress, please let me know if you have questions/comments/suggestions. And good luck!&lt;/p&gt;
+      <description>&lt;!--  Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+
+## Which documents do I need? 
+
+Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+
+## Other advices
+
+While I try to provide some advice, people way more experienced have done that before:
+
+[Drezner’s article about political science PhD programs](https://foreignpolicy.com/2012/03/18/so-you-want-to-get-into-a-political-science-ph-d-program-episode-i/) 
+
+
+Several source for Economics that can be useful for Political Scientists: 
+- [Christian’s memo about the application process (recent, but overwhelming)](https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view)
+- [Gentzkow and Shapiro’s RA manual](https://github.com/gslab-econ/ra-manual/wiki/PhD-Application)
+- [Blattman’s FAQ on PhD Applications](https://chrisblattman.com/about/contact/gradschool/)
+- [Mankiw’s advice on choosing a graduate program (very Econ)](https://gregmankiw.blogspot.com/2010/03/choosing-graduate-program.html)
+
+This is a work in progress, please let me know if you have questions/comments/suggestions. And good luck! 
+
 </description>
     </item>
     
