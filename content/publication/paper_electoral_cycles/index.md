@@ -1,8 +1,7 @@
 ---
 abstract: 
 authors:
-- admin
-- Tiago Ventura
+- with Tiago Ventura
 date: "2020-05-01T00:00:00Z"
 doi: ""
 featured: false
