@@ -47,18 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-This book project investigates the causes and consequences of assassinations of local politicians, with a central focus on Brazil. In recent years, hundreds of Brazilian mayors, city councilors, and candidates for these positions have been executed, a phenomenon also observed in Mexico, Nigeria, South Africa and other countries. Although many local politicians are murdered across the world, this disturbing phenomenon receives scant attention in the academic literature. Most related studies focus on other important aspects of political violence, ranging from civil wars to electoral violence against voters. This project addresses this lacuna by pursuing a new research agenda on violence against local politicians. I employ a mixed-method approach to answer questions about the targets, perpetrators, causes, and consequences of political killings. Original data on political assassinations provide evidence on the characteristics of local politicians and the determinants of executions. I complement the quantitative data with qualitative research to shed light on the perpetrators, mostly other state actors, and motivations behind the use of violence. 
 
-
-<!-- It entails four primary analytic objectives:
-
-
-Objective 1: Targets. What characteristics of local politicians make them more likely to be assassinated? Do these patterns differ between campaign and non-campaign periods?
-
-Objective 2: Causes. What conditions render political assassinations more likely? Do politi- cal, socioeconomic, and other factors explain spatial and geographic variation in executions?
-
-Objective 3: Motivations. Who is most likely to assassinate local politicians, and why? Why do political competitors and other actors choose violence over alternative strategies?
-
-Objective 4: Consequences. How do assassinations of local politicians affect electoral out- comes, such as voter participation and reelection rates of incumbents? --> 
+This paper summarizes results from the analysis of 103 rebel group constitutions. The analysis shows that rebel constitutions tend to differ systematically across five general dimensions. Estimating these constitutional topics using our sample of rebel constitutions makes an important contribution to the emerging literature on rebel political institutions. Rebel constitutions can be used for several purposes, and the data suggest that the topics in the constitutions are correlated with meta data about the strategic political environment in which the rebels reside. This paper summarizes results from the analysis of 103 rebel group constitutions. The analysis shows that rebel constitutions tend to differ systematically across five general dimensions. Estimating these constitutional topics using our sample of rebel constitutions makes an important contribution to the emerging literature on rebel political institutions. Rebel constitutions can be used for several purposes, and the data suggest that the topics in the constitutions are correlated with meta data about the strategic political environment in which the rebels reside. 
 
 
