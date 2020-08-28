@@ -17,26 +17,88 @@
       <link>/post/application-polsci/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/post/application-polsci/</guid>
-      <description>&lt;!--  Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+      <description>&lt;p&gt;Applying to PhD programs in the US from other countries is not trivial. Students do not have much information about the process and many professors in their home universities might not be familiar with the process. This lack of information affects students, making them undecided and insecure about studying abroad. This post is directed to Brazilian students who want to do a PhD in Political Science in the US, but might be useful to other international students as well (that’s why I’m writing in English).&lt;/p&gt;
+&lt;p&gt;Of course, there isn’t an exact recipe for success. Departments and faculty reviewers vary in how they read applications and weight different parts of it. My advice boils down to “control the variables you can”, because being accepted to grad programs depends on many aspects of luck too.&lt;/p&gt;
+&lt;p&gt;First, some caveats. I am a PhD candidate in Political Science, and I have never been in an admissions committee. The content of this post is from my personal experience and other people I know who applied to Political Science and Econ PhD programs. You should also talk to other people, including other graduate students and professors. I did my undergrad in Economics and my application to Political Science was informed by the experience my Econ friends had applying to Econ programs in the US. The Econ departments in Brazil have been sending students to great departments in the US for many years. Their pipeline is very well organized and institutionalized. Although the process of applying to Political Science PhD programs is very similar to Econ, it may appear that the paths to get there are not as open. This post is an attempt to remedy that.&lt;/p&gt;
+&lt;h2 id=&#34;which-documents-do-i-need&#34;&gt;Which documents do I need?&lt;/h2&gt;
+&lt;p&gt;The documentation may vary by school, but these are the basic requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GRE and TOEFL&lt;/li&gt;
+&lt;li&gt;Statement of purpose&lt;/li&gt;
+&lt;li&gt;Academic transcripts (GPA)&lt;/li&gt;
+&lt;li&gt;Letters of Recommendation&lt;/li&gt;
+&lt;li&gt;Writing sample&lt;/li&gt;
+&lt;li&gt;Application fee&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gre&#34;&gt;GRE&lt;/h2&gt;
+&lt;p&gt;The GRE is a standardized test for admissions for most graduate programs in the US. Some programs use GRE as a first filter or later to allocate funding. If you want to attend a top graduate school, you need a good GRE score. There are too many applicants and an excellent score is the first impression you can give. There are limitations with GRE, but unfortunately, they matter. The importance of these does not go away with holistic admissions processes. It just means that you get a second chance to prove yourself.&lt;/p&gt;
+&lt;p&gt;Impossible to say exactly what would be ideal cutoff for most programs. Some departments post their GRE stats and/or cutoffs online. Econ programs do not care about the writing or verbal component of the GRE. In Political Science, some programs that are more qualitative might favor the verbal score over the quantitative/math score. However, I’d say that top 20 programs tend to look at the math score, and they discount the fact that international students tend to have lower scores in the verbal part. With that said, aim at acing the GRE and scoring above the 90th percentile.&lt;/p&gt;
+&lt;h2 id=&#34;toefl&#34;&gt;TOEFL&lt;/h2&gt;
+&lt;p&gt;As the GRE, TOEFL is a standardized test to measure the English language ability of non-native speakers.  If you haven’t attended university in the US, programs will require you to submit the TOEFL. Programs usually ask for you a minimum score and it varies between programs. You should check their websites to make sure you got the score needed to be evaluated by the committee. The TOEFL is as expensive as the GRE and you have to pay to send it to universities (more discussion about it below).&lt;/p&gt;
+&lt;h2 id=&#34;statement-of-purpose-what-to-have-in-my-personal-statementstatement-of-purpose&#34;&gt;Statement of Purpose: What to have in my personal statement/statement of purpose?&lt;/h2&gt;
+&lt;p&gt;You have to explain why you are a good candidate, i.e. your past experience with research, your research interests, why you will succeed and become a successful researcher. Programs are looking for people who will write great dissertations, publish and get great academia jobs (I know…).&lt;/p&gt;
+&lt;p&gt;Ashley Leeds, Prof of Political Science at Rice University, wrote a thread on Twitter about statements of purpose, so I’ll just replicate it:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What prepares you to succeed in grad school? (i.e., past research/work/academic experience)&lt;/li&gt;
+&lt;li&gt;Why do you want to study at my university? (i.e., What are your substantive and methodological research interests? Why is this the right place to study this? Are there particular faculty you want to work with?)&lt;/li&gt;
+&lt;li&gt;What are your substantive and methodological research interests? Why is this the right place to study this? Are there particular faculty you want to work with?&lt;/li&gt;
+&lt;li&gt;What are your goals when you finish the Ph.D.? (Are you seeking a job in academia, government, private sector, etc.?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;academic-transcripts&#34;&gt;Academic Transcripts&lt;/h2&gt;
+&lt;p&gt;You have to translate all the documents including your academic transcripts. Official translators can be very expensive; an alternative option is to use Education USA services. But confirm that all the universities you are applying to accept their documents. Note that different universities will have different requirements – some may ask you to send printed official transcripts, other will accept online versions (that happened when I applied, policies might have changed in the last years).&lt;/p&gt;
+&lt;p&gt;It is also important to explain what your grades mean, since the grade system in the US is different. You can use your statement of purpose or your recommenders can explain in their letters.&lt;/p&gt;
+&lt;h2 id=&#34;letters-of-recommendation&#34;&gt;Letters of Recommendation&lt;/h2&gt;
+&lt;p&gt;Letter of recommendations are probably the second most important part of your application. I would recommend to have letters from professors that are/were inserted in the US market (PhD or Post-Doc in the US, international publications, etc.). They might be more familiar with the application process and have connections. Networking is very important in academia, and research committee members might contact your advisor to have more information about you.&lt;/p&gt;
+&lt;p&gt;It is important for your letter writers to inform the reviewers about the quality of your institution and program in the country (they probably don’t know many universities in Brazil), the type of work you have done (research), and an evaluation of you as a student. It is common in the US for professors to compare and rank students.&lt;/p&gt;
+&lt;p&gt;Choose professors who know your work very well. Try to work with professors on research projects and be the best student in their class. Look for RA opportunities in departments and research institutions. You’ll need three letters, ideally two must know you very well. Provide them with your CV and a draft of your statement of purpose to help them write more specific letters. Build strong relationships with you letter writers. And these relationships may accompany you on your life.&lt;/p&gt;
+&lt;p&gt;Finally, non-academia letters are less important, except if you’re applying to public policy programs. But if they are one of your options, don’t worry too much.&lt;/p&gt;
+&lt;h2 id=&#34;writing-sample&#34;&gt;Writing Sample&lt;/h2&gt;
+&lt;p&gt;Usually, optional. But if you have a research paper, submit it. It is an opportunity to show that you are already familiar with the type of work you will have to do during the PhD.&lt;/p&gt;
+&lt;h2 id=&#34;application-fees&#34;&gt;Application Fees&lt;/h2&gt;
+&lt;p&gt;I will discuss costs in more details below. But, yes, you have to pay to submit your application to a program – and the fees are pretty high. At UCSD, the application fee is $140 for international students.&lt;/p&gt;
+&lt;h2 id=&#34;common-questions&#34;&gt;Common Questions&lt;/h2&gt;
+&lt;h1 id=&#34;-given-that-i-have-to-demonstrate-that-i-am-a-good-fit-for-the-department-should-you-pick-faculty-advisers-out-in-advance&#34;&gt;- Given that I have to demonstrate that I am a good fit for the department, should you pick faculty advisers out in advance?&lt;/h1&gt;
+&lt;p&gt;Not necessarily. You might change your research question or topic and might want to work with someone else. Additionally, faculty move a lot in the US, don’t be dependent on one single person.&lt;/p&gt;
+&lt;p&gt;You can use part of your statement of purpose to say explicitly why you are a good fit for the particular program. You can show you’re familiar with some faculty who work on topics or methods relevant to your research and drop a few faculty names. From a friend who worked in an admission committee: “Admissions committees like to think about spreading the load of advising new students across faculty. However, don’t stress too much over this. If your research interests are clearly stated elsewhere, then it will be obvious to the committee how you fit.”&lt;/p&gt;
+&lt;p&gt;There is no need to contact faculty in advance.&lt;/p&gt;
+&lt;h1 id=&#34;-applications-are-expensive-and-i-dont-have-money-to-apply-what-can-i-do&#34;&gt;- Applications are expensive and I don’t have money to apply. What can I do?&lt;/h1&gt;
+&lt;p&gt;Applications are insanely expensive. It would have been very difficult for me if I haven’t been working when I applied. I worked full time before starting my MPA and, during the masters, I worked as a RA and TA (two letter writers) – and I was able to save money. The application drained all my savings. Many times, people do not even have this option. And without even considering the currency exchange…&lt;/p&gt;
+&lt;p&gt;Schools have an application fee and the costs can go up pretty fast depending on the number of programs you are applying to. GRE costs $27 per school to send official GRE scores and application fees are ~$100 per school. International students also have to pay $20 per school to send their official TOEFL scores. On top of that, you have the pay $205 to take the GRE (per time) and $180 to take the TOEFL, plus all the prep costs. Therefore, applying to grad school is prohibitively expensive for many people (this is a discussion per se).&lt;/p&gt;
+&lt;p&gt;Some schools offer waivers to US citizens/permanent residents based on income. It’s not clear how many people are covered (another discussion). I’m not sure about this, but one option might be to email schools asking about the fee waivers if you cannot afford them.&lt;/p&gt;
+&lt;p&gt;Another option in Brazil is through Education USA – they sponsor some students. For more details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.educationusa.org.br/oa/&#34;&gt;https://www.educationusa.org.br/oa/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=at2gKSxiiyw&amp;amp;t=96s&#34;&gt;https://www.youtube.com/watch?v=at2gKSxiiyw&amp;amp;t=96s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have seen people making crowdfundings to finance their graduate studies or application processes.&lt;/p&gt;
+&lt;h1 id=&#34;-do-i-need-to-pay-for-my-phd-can-i-work-during-the-program-how-can-i-fund-a-phd-will-i-financially-survive&#34;&gt;- Do I need to pay for my PhD? Can I work during the program? How can I fund a PhD? Will I financially survive?&lt;/h1&gt;
+&lt;p&gt;This is probably the biggest struggle for international students. IMPORTANT: You do not need to pay for your PhD. I cannot repeat that enough. In Brazil, many people think you have to pay for a PhD. Many programs pay for your tuition fees, health insurance, and provide a stipend or TAships or RAships.&lt;/p&gt;
+&lt;p&gt;Many masters are paid, but there are some scholarships (For example, Global Policy School at UCSD, School of Advanced International Studies at Johns Hopkins University). You can also apply to external funding opportunities, such as the Lemman Foundation in Brazil – restricted to partner univerisities (&lt;a href=&#34;https://fundacaolemann.org.br/voce/universidades)&#34;&gt;https://fundacaolemann.org.br/voce/universidades)&lt;/a&gt;. There are also programs like the Lemman to study in Europe.&lt;/p&gt;
+&lt;h1 id=&#34;-what-type-of-visa-should-i-get-can-my-partner-work-in-the-us&#34;&gt;- What type of visa should I get? Can my partner work in the US?&lt;/h1&gt;
+&lt;p&gt;There are several websites and people better informed than me to discuss visa issues. So, I’ll talk about the basics. There are two types of students’ visa: F1 e J1. Most students come to the US with the F1, which is more flexible in terms of employment. However, if you have a partner who wants to work in the US, J1 should be your choice. J2 is a visa for spouses and dependents of J-1 visitors.&lt;/p&gt;
+&lt;h1 id=&#34;-what-does-it-take-to-get-into-a-good-phd-program&#34;&gt;- What does it take to get into a good PhD program?&lt;/h1&gt;
+&lt;p&gt;As I said in the beginning, there isn’t an exactly formula. Good recommendations, research experience, good grades and GRE scores will help, but it does not guarantee you will get into a top 5 program. The process is very idiosyncratic. Luck also plays an important role.&lt;/p&gt;
+&lt;p&gt;Control the variables you can: be organized, track the deadlines (they vary a lot, usually the first universities start in November, the last deadlines are in January), and start the process in advance.&lt;/p&gt;
+&lt;h2 id=&#34;other-advices&#34;&gt;Other advices&lt;/h2&gt;
+&lt;p&gt;While I try to provide some advice, people way more experienced than me have done that before. Here are some useful references:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://foreignpolicy.com/2012/03/18/so-you-want-to-get-into-a-political-science-ph-d-program-episode-i/&#34;&gt;Drezner’s article about political science PhD programs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Several sources for Economics that can be useful for Political Scientists:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view&#34;&gt;Christian’s memo about the application process (recent, but overwhelming)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gslab-econ/ra-manual/wiki/PhD-Application&#34;&gt;Gentzkow and Shapiro’s RA manual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrisblattman.com/about/contact/gradschool/&#34;&gt;Blattman’s FAQ on PhD Applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gregmankiw.blogspot.com/2010/03/choosing-graduate-program.html&#34;&gt;Mankiw’s advice on choosing a graduate program (very Econ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/1rhl7RCedUeninvjYfrKYH?si=IzyuEj9RTgCWwG3u4CFqjA&#34;&gt;Ricardo Dahis&amp;rsquo; podcast (in Portuguese) about PhD programs in Economics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a work in progress, so please let me know if you have questions/comments/suggestions.&lt;/p&gt;
+&lt;p&gt;Good luck!&lt;/p&gt;
+&lt;!--  Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
 
 ## Which documents do I need? 
 
 Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
 
-## Other advices
 
-While I try to provide some advice, people way more experienced have done that before:
-
-[Drezner’s article about political science PhD programs](https://foreignpolicy.com/2012/03/18/so-you-want-to-get-into-a-political-science-ph-d-program-episode-i/) 
-
-
-Several source for Economics that can be useful for Political Scientists: 
-- [Christian’s memo about the application process (recent, but overwhelming)](https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view)
-- [Gentzkow and Shapiro’s RA manual](https://github.com/gslab-econ/ra-manual/wiki/PhD-Application)
-- [Blattman’s FAQ on PhD Applications](https://chrisblattman.com/about/contact/gradschool/)
-- [Mankiw’s advice on choosing a graduate program (very Econ)](https://gregmankiw.blogspot.com/2010/03/choosing-graduate-program.html)
-
-This is a work in progress, please let me know if you have questions/comments/suggestions. And good luck! 
 
 </description>
     </item>
