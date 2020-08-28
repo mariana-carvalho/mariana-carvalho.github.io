@@ -71,7 +71,7 @@ It is important for your letter writers to inform the reviewers about the qualit
 
 Choose professors who know your work very well. Try to work with professors on research projects and be the best student in their class. Look for RA opportunities in departments and research institutions. You’ll need three letters, ideally two must know you very well. Provide them with your CV and a draft of your statement of purpose to help them write more specific letters. Build strong relationships with you letter writers. And these relationships may accompany you on your life. 
 
-Finally, non-academia letters are less important, except if you’re applying to public policy programs. But if they are one of your options, don’t worry too much. 
+Finally, non-academia letters are less important, except if you’re applying to public policy programs. However, if you don't have three academic letters, don’t worry too much about a third non-academic letter affecting your chances. 
 
 ## Writing Sample
 
