@@ -83,7 +83,7 @@ I will discuss costs in more details below. But, yes, you have to pay to submit 
 
 ## Common Questions
 
-# - Given that I have to demonstrate that I am a good fit for the department, should you pick faculty advisers out in advance? 
+**1) Given that I have to demonstrate that I am a good fit for the department, should you pick faculty advisers out in advance?** 
 
 Not necessarily. You might change your research question or topic and might want to work with someone else. Additionally, faculty move a lot in the US, don’t be dependent on one single person. 
 
@@ -91,7 +91,7 @@ You can use part of your statement of purpose to say explicitly why you are a go
 
 There is no need to contact faculty in advance.  
 
-# - Applications are expensive and I don’t have money to apply. What can I do? 
+**2) Applications are expensive and I don’t have money to apply. What can I do?**
 
 Applications are insanely expensive. It would have been very difficult for me if I haven’t been working when I applied. I worked full time before starting my MPA and, during the masters, I worked as a RA and TA (two letter writers) – and I was able to save money. The application drained all my savings. Many times, people do not even have this option. And without even considering the currency exchange…   
 
@@ -106,17 +106,17 @@ Another option in Brazil is through Education USA – they sponsor some students
 
 I have seen people making crowdfundings to finance their graduate studies or application processes. 
 
-# - Do I need to pay for my PhD? Can I work during the program? How can I fund a PhD? Will I financially survive? 
+**3) Do I need to pay for my PhD? Can I work during the program? How can I fund a PhD? Will I financially survive?** 
 
 This is probably the biggest struggle for international students. IMPORTANT: You do not need to pay for your PhD. I cannot repeat that enough. In Brazil, many people think you have to pay for a PhD. Many programs pay for your tuition fees, health insurance, and provide a stipend or TAships or RAships. 
 
 Many masters are paid, but there are some scholarships (For example, Global Policy School at UCSD, School of Advanced International Studies at Johns Hopkins University). You can also apply to external funding opportunities, such as the Lemman Foundation in Brazil – restricted to partner univerisities (https://fundacaolemann.org.br/voce/universidades). There are also programs like the Lemman to study in Europe. 
 
-# - What type of visa should I get? Can my partner work in the US? 
+**4) What type of visa should I get? Can my partner work in the US?** 
 
 There are several websites and people better informed than me to discuss visa issues. So, I’ll talk about the basics. There are two types of students’ visa: F1 e J1. Most students come to the US with the F1, which is more flexible in terms of employment. However, if you have a partner who wants to work in the US, J1 should be your choice. J2 is a visa for spouses and dependents of J-1 visitors. 
 
-# - What does it take to get into a good PhD program? 
+**5) What does it take to get into a good PhD program?**
 
 As I said in the beginning, there isn’t an exactly formula. Good recommendations, research experience, good grades and GRE scores will help, but it does not guarantee you will get into a top 5 program. The process is very idiosyncratic. Luck also plays an important role. 
 
