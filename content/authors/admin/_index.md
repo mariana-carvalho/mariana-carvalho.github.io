@@ -23,6 +23,7 @@ email: "macarval@ucsd.edu"
 interests:
 - Political Economy 
 - Conflict and Violence
+- Crime
 - Causal Inference
 
 name: Mariana Carvalho
