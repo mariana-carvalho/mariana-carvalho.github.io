@@ -11,7 +11,7 @@ image:
 <!--links:
 - name: Custom Link
   url: http://example.org -->
-summary: Job Market Paper (Available upon request)
+summary: Working Paper (Available upon request)
 title: The Political Economy of Assassinations
 url_pdf: ""
 url_slides: ""

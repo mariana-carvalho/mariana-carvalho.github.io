@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - 
-date: "2020-08-19T00:00:00Z"
+date: "2020-08-28T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-08-19T00:00:00Z"
+lastmod: "2020-08-28T00:00:00Z"
 projects: []
 subtitle: 'A guide to international students'
 summary: A guide to international students
