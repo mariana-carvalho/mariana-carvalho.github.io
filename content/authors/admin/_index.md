@@ -55,6 +55,6 @@ user_groups:
 
 I am a Ph.D. candidate in Political Science at University of California, San Diego. My research lies in political economy of conflict and development, with a focus on criminal and political violence. 
 
-In the 2020-2021 academic year, I will be a Dissertation Fellow with the UC Institute on Global Conflict and Cooperation. My dissertation research and field work has been supported by the Center for Latin American Studies at UCSD (CILAS), the UCSD Sanford Lakoff Research Fellowship, and the UCSD International Institute. 
+In the 2020-2021 academic year, I will be a [Dissertation Fellow with the UC Institute on Global Conflict and Cooperation](https://igcc.ucsd.edu/funding/who-igcc-funds/fellows.html). My dissertation research and field work has been supported by the Center for Latin American Studies at UCSD (CILAS), the UCSD Sanford Lakoff Research Fellowship, and the UCSD International Institute. 
 
 Prior to entering UCSD, I received a B.A. in Economics and a M.A. in Public Administration from Fundação Getulio Vargas, Rio de Janeiro, Brazil. I worked as a consultant for UN-Habitat, monitoring and evaluating several annual policy goals of the City Hall of Rio de Janeiro.
