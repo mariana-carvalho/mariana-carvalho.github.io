@@ -9,17 +9,16 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
-projects: []
-publication: '' 
-# *Journal of Source Themes, 1*(1)
-publication_short: ""
-publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: 
+#projects: []
+#publication: '' 
+#publication_short: ""
+#publication_types:
+#- "1"
+#publishDate: "2017-01-01T00:00:00Z"
+#slides: 
 summary: Working Paper (Available upon request)
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 title: The Electoral Cycle of Violence
 url_code: ""
 url_dataset: 
