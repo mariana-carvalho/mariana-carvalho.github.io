@@ -20,7 +20,7 @@ summary: Experiment in Progress.
 title: Identifying and Deterring the Theft and Diversion of Medicinal Drugs in Malawi
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: "https://ace.globalintegrity.org/medicine/"
 ---
 
 
