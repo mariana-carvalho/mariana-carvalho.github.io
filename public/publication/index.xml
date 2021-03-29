@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work in Progress | Mariana Carvalho</title>
+    <title>Research | Mariana Carvalho</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Work in Progress</description>
+    <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Work in Progress</title>
+      <title>Research</title>
       <link>/publication/</link>
     </image>
     
@@ -48,6 +48,14 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>/publication/women_in_office/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/publication/women_in_office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criminal Dynamics and Homicides in Brazil</title>
+      <link>/publication/mco/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mco/</guid>
       <description></description>
     </item>
     
