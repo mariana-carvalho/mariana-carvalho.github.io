@@ -53,9 +53,9 @@ user_groups:
 
 ---
 
-I am a Ph.D. candidate in Political Science at University of California, San Diego. My research lies in political economy of conflict and development, with a focus on criminal and political violence. 
+I am a Ph.D. candidate in Political Science at University of California, San Diego. I am also a research fellow with the Center for Applied Research to Security at Fundação Getulio Vargas (FGV-Rio). My research lies in political economy of conflict and development, with a focus on criminal and political violence. 
 
-In the 2020-2021 academic year, I will be a [Dissertation Fellow with the UC Institute on Global Conflict and Cooperation](https://igcc.ucsd.edu/funding/who-igcc-funds/fellows.html). My dissertation research and field work has been supported by the [2020-2021 NSF/APSA Dissertation Research Improvement Grant](https://www.apsanet.org/PROGRAMS/Doctoral-Dissertation-Research-Improvement-Grants), the UCSD Sanford Lakoff Research Fellowship, and the UCSD International Institute. 
+For the 2021-22 academic year, I was selected as a [Harry F Guggenheim Emerging Scholar](https://www.hfg.org/). In the 2020-2021 academic year, I was a [Dissertation Fellow with the UC Institute on Global Conflict and Cooperation (IGCC)](https://igcc.ucsd.edu/funding/who-igcc-funds/fellows.html). My dissertation research and field work has been supported by the [2020-2021 NSF/APSA Dissertation Research Improvement Grant](https://www.apsanet.org/PROGRAMS/Doctoral-Dissertation-Research-Improvement-Grants), the UCSD Sanford Lakoff Research Fellowship, and the UCSD International Institute. 
 
 Prior to entering UCSD, I received a B.A. in Economics and a M.A. in Public Administration from Fundação Getulio Vargas, Rio de Janeiro, Brazil. I worked as a consultant for UN-Habitat, monitoring and evaluating several annual policy goals of the City Hall of Rio de Janeiro.
 
