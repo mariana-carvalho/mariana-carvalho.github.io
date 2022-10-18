@@ -30,7 +30,7 @@ name: Mariana Carvalho
 organizations:
 - name: University of California, San Diego
   url: ""
-role: PhD Candidate in Political Science
+role: 
 social:
 - icon: envelope
   icon_pack: fas
