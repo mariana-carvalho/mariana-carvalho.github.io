@@ -18,7 +18,7 @@ bio:
     institution: Fundação Getulio Vargas
     year: 2012 --> 
     
-email: "macarval@ucsd.edu"
+email: "mari_carvalho@brown.edu"
 
 interests:
 - Political Economy 
@@ -28,7 +28,7 @@ interests:
 
 name: Mariana Carvalho
 organizations:
-- name: University of California, San Diego
+- name: Brown University
   url: ""
 role: ""
 social:
@@ -53,7 +53,7 @@ user_groups:
 
 ---
 
-I am a Postdoctoral Fellow at Brown University. I received my Ph.D. in Political Science at University of California, San Diego. My research interests lie in Political Economy and Comparative Politics, with a focus on the study of Violence and Crime. 
+I am a Postdoctoral Fellow at Brown University. I received my Ph.D. in Political Science in 2022 at University of California, San Diego. My research interests lie in Political Economy and Comparative Politics, with a focus on the study of Violence and Crime. 
 
 For the 2021-22 academic year, I was selected as a [Harry F Guggenheim Emerging Scholar](https://www.hfg.org/). In the 2020-2021 academic year, I was a [Dissertation Fellow with the UC Institute on Global Conflict and Cooperation (IGCC)](https://igcc.ucsd.edu/funding/who-igcc-funds/fellows.html). My dissertation research and field work has been supported by the [2020-2021 NSF/APSA Dissertation Research Improvement Grant](https://www.apsanet.org/PROGRAMS/Doctoral-Dissertation-Research-Improvement-Grants), the UCSD Sanford Lakoff Research Fellowship, and the UCSD International Institute. 
 
