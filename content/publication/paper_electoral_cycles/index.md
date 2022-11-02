@@ -1,8 +1,10 @@
 ---
-abstract: 
+abstract: Many peripheral areas in urban cities are marked by the presence of criminal groups that exert coercion in order to establish local monopolies of legal and illegal goods and services. Some criminal groups expand their enterprises uncontested, while others have their turfs constantly challenged by rival groups and the state. To understand why, we develop a model to analyze the strategic decision of criminal groups to fight their challengers. We test the predictions of the model using a novel dataset ensuing from 420,000 citizen reports on criminal groups’ activities in Rio de Janeiro, a unique setting where drug factions and police-linked militia groups control territories. We explore within neighborhood variation in their presence over a 12-year period to test the model predictions. We show that violence levels and economic diversification vary with group type. Neighborhoods solely controlled by police-linked criminal groups are less violent, less exposed to state military intervention and have higher criminal group economic diversification. Our findings indicate a trade-off between violence and criminal group economic outreach.
 authors:
-- with Tiago Ventura
-date: "2020-05-01T00:00:00Z"
+- with Joana Monteiro
+- Eduardo Fagundes
+- Ramon Chaves Gomes
+date: "2022-10-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -14,12 +16,12 @@ image:
 #publication_short: ""
 #publication_types:
 #- "1"
-#publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2022-10-01T00:00:00Z"
 #slides: 
 summary: Working Paper (Available upon request)
 #tags:
 #- Source Themes
-title: The Electoral Cycle of Violence
+title: Territorial Criminal Enterprises
 url_code: ""
 url_dataset: 
 #url_pdf: "files/Carvalho&Ventura_paper.pdf"

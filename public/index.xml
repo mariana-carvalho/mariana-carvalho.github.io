@@ -75,6 +75,37 @@
     </item>
     
     <item>
+      <title>Territorial Criminal Enterprises</title>
+      <link>/publication/paper_electoral_cycles/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/paper_electoral_cycles/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identifying and Deterring the Theft and Diversion of Medicinal Drugs in Malawi</title>
+      <link>/publication/malawi/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/malawi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Political Economy of Assassinations</title>
       <link>/publication/pol_economy_assassinations/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
@@ -170,29 +201,6 @@ Academic comes with **automatic day (light) and night (dark) mode** built-in. Al
 
 
 
-</description>
-    </item>
-    
-    <item>
-      <title>The Electoral Cycle of Violence</title>
-      <link>/publication/paper_electoral_cycles/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/paper_electoral_cycles/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -351,14 +359,6 @@ $$&lt;/p&gt;
       <link>/publication/mco/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/publication/mco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifying and Deterring the Theft and Diversion of Medicinal Drugs in Malawi</title>
-      <link>/publication/malawi/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/malawi/</guid>
       <description></description>
     </item>
     
