@@ -24,7 +24,7 @@ summary: Working Paper (Submitted)
 title: Territorial Criminal Enterprises
 url_code: ""
 url_dataset: 
-#url_pdf: "files/Carvalho&Ventura_paper.pdf"
+url_pdf: "files/Paper_CriminalEnterprises.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
