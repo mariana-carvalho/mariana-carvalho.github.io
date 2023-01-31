@@ -21,7 +21,7 @@ title: "How Corruption Harms Public Health: An Experimental Impact Evaluation of
 url_code: ""
 url_dataset: ""
 url_pdf: 
-url_project: ""
+url_project: "https://www.socialscienceregistry.org/trials/8989"
 url_analysis: ""
 ---
 
