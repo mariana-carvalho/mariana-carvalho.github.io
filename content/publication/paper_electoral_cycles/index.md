@@ -18,7 +18,7 @@ image:
 #- "1"
 #publishDate: "2022-10-01T00:00:00Z"
 #slides: 
-summary: Working Paper (Available upon request)
+summary: Working Paper (Submitted)
 #tags:
 #- Source Themes
 title: Territorial Criminal Enterprises
